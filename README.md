@@ -24,3 +24,12 @@ The data set includes information about:
 
 ### Requirements:
 * Python 3.6
+
+## Model performance
+![alt text](https://github.com/krshubham12/Telco-Customer-Churn-Prediction/blob/master/modelperformance.png)
+
+## Correlation between churn and other variables
+![alt text](https://github.com/krshubham12/Telco-Customer-Churn-Prediction/blob/master/correlation.png)
+
+## Heatmap
+![alt text](https://raw.githubusercontent.com/krshubham12/Telco-Customer-Churn-Prediction/master/heatmap.png)
