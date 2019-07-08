@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction
 
-This project predict customer churn by based on other relevant independent variables. It uses Random forest classifier, K nearest neighbor and Logistic regression for that purpose. I had used backward elimination regression to eliminate the weakly correlated variables by comparing P-value, R<sup>2</sup> and adjusted R<sup>2</sup> values.
+This project predict customer churn based on other relevant independent variables. It uses Random forest classifier, K nearest neighbor and Logistic regression for that purpose. I had used backward elimination regression to eliminate the weakly correlated variables by comparing P-value, R<sup>2</sup> and adjusted R<sup>2</sup> values.
 
 ## Data Description
 
